@@ -47,7 +47,7 @@ A full stack web application created with my team for journalers who want to tra
 1. Clone the repository.
 
     ```shell
-    git clone https://github.com/dotkeenan/moodometry.git
+    git clone https://github.com/Austin-Imbastari/moodometry.git
     cd moodometry
     ```
 
