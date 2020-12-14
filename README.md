@@ -18,7 +18,7 @@ A full stack web application created with my team for journalers who want to tra
 - react-day-picker
 
 ## Live Demo
-- Try the application live at [https://moodometry.keenanng.com/](https://moodometry.keenanng.com/)
+- Try the application live at [https://moodometry.austinimbastari.com/](https://moodometry.austinimbastari.com/)
 - Best viewed on mobile!
 
 ## Features
